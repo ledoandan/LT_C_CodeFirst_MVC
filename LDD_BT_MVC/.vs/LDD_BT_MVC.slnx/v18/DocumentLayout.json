@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{74E67E52-55C6-B438-7C6E-B44D81B3F63E}|LDD_BT_MVC\\LDD_BT_MVC.csproj|d:\\225\\lt_c#\\bt_codefirst_mvc\\lt_c_codefirst_mvc\\ldd_bt_mvc\\ldd_bt_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E67E52-55C6-B438-7C6E-B44D81B3F63E}|LDD_BT_MVC\\LDD_BT_MVC.csproj|solutionrelative:ldd_bt_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E67E52-55C6-B438-7C6E-B44D81B3F63E}|LDD_BT_MVC\\LDD_BT_MVC.csproj|d:\\225\\lt_c#\\bt_codefirst_mvc\\lt_c_codefirst_mvc\\ldd_bt_mvc\\ldd_bt_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74E67E52-55C6-B438-7C6E-B44D81B3F63E}|LDD_BT_MVC\\LDD_BT_MVC.csproj|solutionrelative:ldd_bt_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{74E67E52-55C6-B438-7C6E-B44D81B3F63E}|LDD_BT_MVC\\LDD_BT_MVC.csproj|d:\\225\\lt_c#\\bt_codefirst_mvc\\lt_c_codefirst_mvc\\ldd_bt_mvc\\ldd_bt_mvc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74E67E52-55C6-B438-7C6E-B44D81B3F63E}|LDD_BT_MVC\\LDD_BT_MVC.csproj|solutionrelative:ldd_bt_mvc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,6 +51,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "LDD_BT_MVC\\Program.cs",
+              "ToolTip": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Program.cs",
+              "RelativeToolTip": "LDD_BT_MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:43:44.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "LDD_BT_MVC\\appsettings.json",
+              "ToolTip": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\appsettings.json",
+              "RelativeToolTip": "LDD_BT_MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-21T12:42:53.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "LDD_BT_MVC\\Data\\AppDbContext.cs",
@@ -55,24 +93,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LDD_BT_MVC",
+              "DocumentIndex": 3,
+              "Title": "LDD_BT_MVC.csproj",
               "DocumentMoniker": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\LDD_BT_MVC.csproj",
               "RelativeDocumentMoniker": "LDD_BT_MVC\\LDD_BT_MVC.csproj",
               "ToolTip": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\LDD_BT_MVC.csproj",
               "RelativeToolTip": "LDD_BT_MVC\\LDD_BT_MVC.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-21T12:35:26.327Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "WhenOpened": "2026-04-21T12:35:26.327Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "DangKyLopModel.cs",
               "DocumentMoniker": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Models\\DangKyLopModel.cs",
               "RelativeDocumentMoniker": "LDD_BT_MVC\\Models\\DangKyLopModel.cs",
@@ -80,12 +113,11 @@
               "RelativeToolTip": "LDD_BT_MVC\\Models\\DangKyLopModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T12:29:07.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T12:29:07.311Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "LopModel.cs",
               "DocumentMoniker": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Models\\LopModel.cs",
               "RelativeDocumentMoniker": "LDD_BT_MVC\\Models\\LopModel.cs",
@@ -93,12 +125,11 @@
               "RelativeToolTip": "LDD_BT_MVC\\Models\\LopModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T12:28:27.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T12:28:27.788Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "GiaoVienModel.cs",
               "DocumentMoniker": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Models\\GiaoVienModel.cs",
               "RelativeDocumentMoniker": "LDD_BT_MVC\\Models\\GiaoVienModel.cs",
@@ -106,12 +137,11 @@
               "RelativeToolTip": "LDD_BT_MVC\\Models\\GiaoVienModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T12:28:07.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T12:28:07.678Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "SinhVienModel.cs",
               "DocumentMoniker": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Models\\SinhVienModel.cs",
               "RelativeDocumentMoniker": "LDD_BT_MVC\\Models\\SinhVienModel.cs",
@@ -119,12 +149,11 @@
               "RelativeToolTip": "LDD_BT_MVC\\Models\\SinhVienModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T12:27:49.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T12:27:49.998Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "KhoaHocModel.cs",
               "DocumentMoniker": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Models\\KhoaHocModel.cs",
               "RelativeDocumentMoniker": "LDD_BT_MVC\\Models\\KhoaHocModel.cs",
@@ -132,8 +161,7 @@
               "RelativeToolTip": "LDD_BT_MVC\\Models\\KhoaHocModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T12:24:19.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T12:24:19.202Z"
             }
           ]
         }

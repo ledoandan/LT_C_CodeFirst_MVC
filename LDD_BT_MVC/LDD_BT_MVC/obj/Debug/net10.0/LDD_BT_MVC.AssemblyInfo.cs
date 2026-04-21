@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LDD_BT_MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1361aafa8ead960e56c359d8180c0315f4920b81")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3da907cf6589fec879a739165a9fb9bee36db3f")]
 [assembly: System.Reflection.AssemblyProductAttribute("LDD_BT_MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LDD_BT_MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
