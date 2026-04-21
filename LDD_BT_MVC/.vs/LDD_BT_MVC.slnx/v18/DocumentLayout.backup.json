@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Controllers\\SinhVienModelsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LDD_BT_MVC\\Controllers\\SinhVienModelsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74E67E52-55C6-B438-7C6E-B44D81B3F63E}|LDD_BT_MVC\\LDD_BT_MVC.csproj|d:\\225\\lt_c#\\bt_codefirst_mvc\\lt_c_codefirst_mvc\\ldd_bt_mvc\\ldd_bt_mvc\\views\\khoahocmodels\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74E67E52-55C6-B438-7C6E-B44D81B3F63E}|LDD_BT_MVC\\LDD_BT_MVC.csproj|solutionrelative:ldd_bt_mvc\\views\\khoahocmodels\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Controllers\\DangKyLopModelsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LDD_BT_MVC\\Controllers\\DangKyLopModelsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74E67E52-55C6-B438-7C6E-B44D81B3F63E}|LDD_BT_MVC\\LDD_BT_MVC.csproj|d:\\225\\lt_c#\\bt_codefirst_mvc\\lt_c_codefirst_mvc\\ldd_bt_mvc\\ldd_bt_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74E67E52-55C6-B438-7C6E-B44D81B3F63E}|LDD_BT_MVC\\LDD_BT_MVC.csproj|solutionrelative:ldd_bt_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Controllers\\LopModelsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LDD_BT_MVC\\Controllers\\LopModelsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74E67E52-55C6-B438-7C6E-B44D81B3F63E}|LDD_BT_MVC\\LDD_BT_MVC.csproj|d:\\225\\lt_c#\\bt_codefirst_mvc\\lt_c_codefirst_mvc\\ldd_bt_mvc\\ldd_bt_mvc\\controllers\\dangkylopmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E67E52-55C6-B438-7C6E-B44D81B3F63E}|LDD_BT_MVC\\LDD_BT_MVC.csproj|solutionrelative:ldd_bt_mvc\\controllers\\dangkylopmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Controllers\\GiaoVienModelsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LDD_BT_MVC\\Controllers\\GiaoVienModelsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74E67E52-55C6-B438-7C6E-B44D81B3F63E}|LDD_BT_MVC\\LDD_BT_MVC.csproj|d:\\225\\lt_c#\\bt_codefirst_mvc\\lt_c_codefirst_mvc\\ldd_bt_mvc\\ldd_bt_mvc\\controllers\\giaovienmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E67E52-55C6-B438-7C6E-B44D81B3F63E}|LDD_BT_MVC\\LDD_BT_MVC.csproj|solutionrelative:ldd_bt_mvc\\controllers\\giaovienmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Controllers\\KhoaHocModelsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LDD_BT_MVC\\Controllers\\KhoaHocModelsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74E67E52-55C6-B438-7C6E-B44D81B3F63E}|LDD_BT_MVC\\LDD_BT_MVC.csproj|d:\\225\\lt_c#\\bt_codefirst_mvc\\lt_c_codefirst_mvc\\ldd_bt_mvc\\ldd_bt_mvc\\controllers\\khoahocmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E67E52-55C6-B438-7C6E-B44D81B3F63E}|LDD_BT_MVC\\LDD_BT_MVC.csproj|solutionrelative:ldd_bt_mvc\\controllers\\khoahocmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E67E52-55C6-B438-7C6E-B44D81B3F63E}|LDD_BT_MVC\\LDD_BT_MVC.csproj|d:\\225\\lt_c#\\bt_codefirst_mvc\\lt_c_codefirst_mvc\\ldd_bt_mvc\\ldd_bt_mvc\\controllers\\lopmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E67E52-55C6-B438-7C6E-B44D81B3F63E}|LDD_BT_MVC\\LDD_BT_MVC.csproj|solutionrelative:ldd_bt_mvc\\controllers\\lopmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E67E52-55C6-B438-7C6E-B44D81B3F63E}|LDD_BT_MVC\\LDD_BT_MVC.csproj|d:\\225\\lt_c#\\bt_codefirst_mvc\\lt_c_codefirst_mvc\\ldd_bt_mvc\\ldd_bt_mvc\\controllers\\sinhvienmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E67E52-55C6-B438-7C6E-B44D81B3F63E}|LDD_BT_MVC\\LDD_BT_MVC.csproj|solutionrelative:ldd_bt_mvc\\controllers\\sinhvienmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74E67E52-55C6-B438-7C6E-B44D81B3F63E}|LDD_BT_MVC\\LDD_BT_MVC.csproj|d:\\225\\lt_c#\\bt_codefirst_mvc\\lt_c_codefirst_mvc\\ldd_bt_mvc\\ldd_bt_mvc\\migrations\\20260421125256_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,15 +78,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Views\\KhoaHocModels\\Index.cshtml",
+              "RelativeDocumentMoniker": "LDD_BT_MVC\\Views\\KhoaHocModels\\Index.cshtml",
+              "ToolTip": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Views\\KhoaHocModels\\Index.cshtml",
+              "RelativeToolTip": "LDD_BT_MVC\\Views\\KhoaHocModels\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T14:00:45.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LDD_BT_MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LDD_BT_MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T13:31:32.951Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "SinhVienModelsController.cs",
               "DocumentMoniker": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Controllers\\SinhVienModelsController.cs",
               "RelativeDocumentMoniker": "LDD_BT_MVC\\Controllers\\SinhVienModelsController.cs",
@@ -86,12 +120,11 @@
               "RelativeToolTip": "LDD_BT_MVC\\Controllers\\SinhVienModelsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T13:02:35.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T13:02:35.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DangKyLopModelsController.cs",
               "DocumentMoniker": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Controllers\\DangKyLopModelsController.cs",
               "RelativeDocumentMoniker": "LDD_BT_MVC\\Controllers\\DangKyLopModelsController.cs",
@@ -104,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "LopModelsController.cs",
               "DocumentMoniker": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Controllers\\LopModelsController.cs",
               "RelativeDocumentMoniker": "LDD_BT_MVC\\Controllers\\LopModelsController.cs",
@@ -112,8 +145,7 @@
               "RelativeToolTip": "LDD_BT_MVC\\Controllers\\LopModelsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T12:59:47.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T12:59:47.743Z"
             },
             {
               "$type": "Document",
@@ -125,8 +157,7 @@
               "RelativeToolTip": "LDD_BT_MVC\\Controllers\\GiaoVienModelsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T12:59:12.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T12:59:12.195Z"
             },
             {
               "$type": "Document",
@@ -138,12 +169,11 @@
               "RelativeToolTip": "LDD_BT_MVC\\Controllers\\KhoaHocModelsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T12:58:37.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T12:58:37.137Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "20260421125256_InitDB.cs",
               "DocumentMoniker": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Migrations\\20260421125256_InitDB.cs",
               "RelativeDocumentMoniker": "LDD_BT_MVC\\Migrations\\20260421125256_InitDB.cs",
@@ -151,12 +181,11 @@
               "RelativeToolTip": "LDD_BT_MVC\\Migrations\\20260421125256_InitDB.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T12:52:56.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T12:52:56.711Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Program.cs",
               "RelativeDocumentMoniker": "LDD_BT_MVC\\Program.cs",
@@ -168,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\appsettings.json",
               "RelativeDocumentMoniker": "LDD_BT_MVC\\appsettings.json",
@@ -180,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "LDD_BT_MVC\\Data\\AppDbContext.cs",
@@ -192,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "LDD_BT_MVC.csproj",
               "DocumentMoniker": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\LDD_BT_MVC.csproj",
               "RelativeDocumentMoniker": "LDD_BT_MVC\\LDD_BT_MVC.csproj",
@@ -204,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "DangKyLopModel.cs",
               "DocumentMoniker": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Models\\DangKyLopModel.cs",
               "RelativeDocumentMoniker": "LDD_BT_MVC\\Models\\DangKyLopModel.cs",
@@ -216,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "LopModel.cs",
               "DocumentMoniker": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Models\\LopModel.cs",
               "RelativeDocumentMoniker": "LDD_BT_MVC\\Models\\LopModel.cs",
@@ -228,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "GiaoVienModel.cs",
               "DocumentMoniker": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Models\\GiaoVienModel.cs",
               "RelativeDocumentMoniker": "LDD_BT_MVC\\Models\\GiaoVienModel.cs",
@@ -240,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "SinhVienModel.cs",
               "DocumentMoniker": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Models\\SinhVienModel.cs",
               "RelativeDocumentMoniker": "LDD_BT_MVC\\Models\\SinhVienModel.cs",
@@ -252,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "KhoaHocModel.cs",
               "DocumentMoniker": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Models\\KhoaHocModel.cs",
               "RelativeDocumentMoniker": "LDD_BT_MVC\\Models\\KhoaHocModel.cs",
