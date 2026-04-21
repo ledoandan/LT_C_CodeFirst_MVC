@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74E67E52-55C6-B438-7C6E-B44D81B3F63E}|LDD_BT_MVC\\LDD_BT_MVC.csproj|d:\\225\\lt_c#\\bt_codefirst_mvc\\lt_c_codefirst_mvc\\ldd_bt_mvc\\ldd_bt_mvc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E67E52-55C6-B438-7C6E-B44D81B3F63E}|LDD_BT_MVC\\LDD_BT_MVC.csproj|solutionrelative:ldd_bt_mvc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E67E52-55C6-B438-7C6E-B44D81B3F63E}|LDD_BT_MVC\\LDD_BT_MVC.csproj|d:\\225\\lt_c#\\bt_codefirst_mvc\\lt_c_codefirst_mvc\\ldd_bt_mvc\\ldd_bt_mvc\\ldd_bt_mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{74E67E52-55C6-B438-7C6E-B44D81B3F63E}|LDD_BT_MVC\\LDD_BT_MVC.csproj|solutionrelative:ldd_bt_mvc\\ldd_bt_mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E67E52-55C6-B438-7C6E-B44D81B3F63E}|LDD_BT_MVC\\LDD_BT_MVC.csproj|d:\\225\\lt_c#\\bt_codefirst_mvc\\lt_c_codefirst_mvc\\ldd_bt_mvc\\ldd_bt_mvc\\models\\dangkylopmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E67E52-55C6-B438-7C6E-B44D81B3F63E}|LDD_BT_MVC\\LDD_BT_MVC.csproj|solutionrelative:ldd_bt_mvc\\models\\dangkylopmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E67E52-55C6-B438-7C6E-B44D81B3F63E}|LDD_BT_MVC\\LDD_BT_MVC.csproj|d:\\225\\lt_c#\\bt_codefirst_mvc\\lt_c_codefirst_mvc\\ldd_bt_mvc\\ldd_bt_mvc\\models\\khoahocmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E67E52-55C6-B438-7C6E-B44D81B3F63E}|LDD_BT_MVC\\LDD_BT_MVC.csproj|solutionrelative:ldd_bt_mvc\\models\\khoahocmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E67E52-55C6-B438-7C6E-B44D81B3F63E}|LDD_BT_MVC\\LDD_BT_MVC.csproj|d:\\225\\lt_c#\\bt_codefirst_mvc\\lt_c_codefirst_mvc\\ldd_bt_mvc\\ldd_bt_mvc\\models\\sinhvienmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E67E52-55C6-B438-7C6E-B44D81B3F63E}|LDD_BT_MVC\\LDD_BT_MVC.csproj|solutionrelative:ldd_bt_mvc\\models\\sinhvienmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E67E52-55C6-B438-7C6E-B44D81B3F63E}|LDD_BT_MVC\\LDD_BT_MVC.csproj|d:\\225\\lt_c#\\bt_codefirst_mvc\\lt_c_codefirst_mvc\\ldd_bt_mvc\\ldd_bt_mvc\\models\\giaovienmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E67E52-55C6-B438-7C6E-B44D81B3F63E}|LDD_BT_MVC\\LDD_BT_MVC.csproj|solutionrelative:ldd_bt_mvc\\models\\giaovienmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E67E52-55C6-B438-7C6E-B44D81B3F63E}|LDD_BT_MVC\\LDD_BT_MVC.csproj|d:\\225\\lt_c#\\bt_codefirst_mvc\\lt_c_codefirst_mvc\\ldd_bt_mvc\\ldd_bt_mvc\\models\\lopmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E67E52-55C6-B438-7C6E-B44D81B3F63E}|LDD_BT_MVC\\LDD_BT_MVC.csproj|solutionrelative:ldd_bt_mvc\\models\\lopmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LDD_BT_MVC\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "LDD_BT_MVC\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:36:04.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LDD_BT_MVC",
+              "DocumentMoniker": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\LDD_BT_MVC.csproj",
+              "RelativeDocumentMoniker": "LDD_BT_MVC\\LDD_BT_MVC.csproj",
+              "ToolTip": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\LDD_BT_MVC.csproj",
+              "RelativeToolTip": "LDD_BT_MVC\\LDD_BT_MVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-21T12:35:26.327Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DangKyLopModel.cs",
+              "DocumentMoniker": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Models\\DangKyLopModel.cs",
+              "RelativeDocumentMoniker": "LDD_BT_MVC\\Models\\DangKyLopModel.cs",
+              "ToolTip": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Models\\DangKyLopModel.cs",
+              "RelativeToolTip": "LDD_BT_MVC\\Models\\DangKyLopModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:29:07.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LopModel.cs",
+              "DocumentMoniker": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Models\\LopModel.cs",
+              "RelativeDocumentMoniker": "LDD_BT_MVC\\Models\\LopModel.cs",
+              "ToolTip": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Models\\LopModel.cs",
+              "RelativeToolTip": "LDD_BT_MVC\\Models\\LopModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:28:27.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GiaoVienModel.cs",
+              "DocumentMoniker": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Models\\GiaoVienModel.cs",
+              "RelativeDocumentMoniker": "LDD_BT_MVC\\Models\\GiaoVienModel.cs",
+              "ToolTip": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Models\\GiaoVienModel.cs",
+              "RelativeToolTip": "LDD_BT_MVC\\Models\\GiaoVienModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:28:07.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SinhVienModel.cs",
+              "DocumentMoniker": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Models\\SinhVienModel.cs",
+              "RelativeDocumentMoniker": "LDD_BT_MVC\\Models\\SinhVienModel.cs",
+              "ToolTip": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Models\\SinhVienModel.cs",
+              "RelativeToolTip": "LDD_BT_MVC\\Models\\SinhVienModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:27:49.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KhoaHocModel.cs",
+              "DocumentMoniker": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Models\\KhoaHocModel.cs",
+              "RelativeDocumentMoniker": "LDD_BT_MVC\\Models\\KhoaHocModel.cs",
+              "ToolTip": "D:\\225\\LT_C#\\BT_CodeFirst_MVC\\LT_C_CodeFirst_MVC\\LDD_BT_MVC\\LDD_BT_MVC\\Models\\KhoaHocModel.cs",
+              "RelativeToolTip": "LDD_BT_MVC\\Models\\KhoaHocModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:24:19.202Z",
+              "EditorCaption": ""
             }
           ]
         }
